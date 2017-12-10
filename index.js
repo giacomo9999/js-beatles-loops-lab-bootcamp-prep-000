@@ -20,5 +20,10 @@ return arr_in;
 
 function iLoveTheBeatles(num)
 {
-  
+  var new_arr=[];
+  var counter = num
+  do {
+    new_arr.push("I love the Beatles!")
+  }
+  while (counter < num)
 }
